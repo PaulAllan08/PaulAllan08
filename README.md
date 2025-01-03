@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=PaulAllan08&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=PaulAllan08&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PaulAllan08&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAllan08&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
