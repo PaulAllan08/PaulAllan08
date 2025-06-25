@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Paul Allan Palacio, a enthusiastic Web Developer and UI/UX Designer. My journey began with C# and VB.NET, but over time, I discovered a deep love for crafting beautiful, user-centered interfaces and websites. With my technical and design expertise, I strive to develop intuitive web applications that enhance user experience and drive business growth through innovative, user-focused solutions.
 
 <!--
 **PaulAllan08/PaulAllan08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
